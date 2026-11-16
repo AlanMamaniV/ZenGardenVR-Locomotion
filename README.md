@@ -43,7 +43,7 @@ Shows the translucent water basin utilizing URP materials, the rocky cliff with 
 ### Zone 4 (Interaction 4): Great Magic Sanctuary Awakened
 Shows the activation of the Sanctuary core: selecting the central crystal unleashes a radiant beam, a turquoise altar halo, and all 6 surrounding marble pillars illuminate simultaneously.
 
-![Zone 4 - Sanctuary Awakened](Screenshots/06_Santuario_Despertado_Interaccion4.jpg)
+![Zone 4 - Sanctuary Awakened](Screenshots/06_Santuario_Despertado_Interaccion4.png)
 
 ---
 

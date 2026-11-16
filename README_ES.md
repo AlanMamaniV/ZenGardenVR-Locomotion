@@ -41,7 +41,7 @@ Muestra la cuenca de agua azul translúcida con materiales URP, el peñasco con 
 ### Zona 4 (Interacción 4): Gran Santuario Mágico Despertado
 Muestra la activación del núcleo del Santuario: al seleccionar el gran cristal central, este desata una emisión de luz radiante con halo turquesa en el altar y los 6 pilares de mármol se iluminan en respuesta.
 
-![Zona 4 - Santuario Despertado](Screenshots/06_Santuario_Despertado_Interaccion4.jpg)
+![Zona 4 - Santuario Despertado](Screenshots/06_Santuario_Despertado_Interaccion4.png)
 
 ---
 

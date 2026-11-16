@@ -56,3 +56,5 @@ Thumbs.db
 # Temporary files
 *.swp
 *~
+config.bat
+node_modules
